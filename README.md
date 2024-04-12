@@ -3,6 +3,7 @@
 
 ## how to use
 
+1. install https://github.com/aedocw/epub2tts
 1. create a dir in ```/home/"USER"/Documents/Audiobook```
 1. vist your new dir
 2. add your .EPUB to the dir 
