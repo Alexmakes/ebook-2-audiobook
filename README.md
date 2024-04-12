@@ -8,3 +8,4 @@
 1. vist your new dir
 2. add your .EPUB to the dir 
 3. run ```python3 ebook2audiobook.py```
+4. profit
